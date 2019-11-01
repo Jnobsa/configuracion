@@ -1,0 +1,6 @@
+datos.minimo=100
+datos.maximo=22
+valores.valor_fijo: VALORPROD
+valores.valor_funcion: "VALORDEFUNCIONPROD"
+com.bancodebogota.aqsw.parametro.ejecucionCron=0 0 * * * *
+com.bancodebogota.aqsw.parametro.topico=topinete
